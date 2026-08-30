@@ -1,0 +1,26 @@
+# KIEP - Kenya Economic Inteligence Platform
+# Data Engineering Project
+
+
+#Data Manipulation
+pandas>=2.0.0
+
+# PostgreSQL Adapter 
+psycopg2-binary>=2.9.9
+
+#Environment Variables
+python-dotenv>=1.0.0
+
+#HTTP Requests ( for API calls)
+requests>=2.31.0
+
+# Data Vaidation
+great-expectations>=0.18.0
+
+
+#Testing
+pytest>=7.4.0
+
+#Code quality
+black>=23.0.0
+flake8>=6.1.0
