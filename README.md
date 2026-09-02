@@ -112,8 +112,7 @@ kiep/
 
 ##  Mark Mureithi Mwangi
 
-[Your Name] — Computer Engineering Student
+[Mark Mureithi Mwangi] — Computer Engineering Student
 
-## 📝 License
 
 This project is for educational purposes.
