@@ -1,0 +1,6 @@
+monthly date PRIMARY KEY,
+cpi_index numeric(8,2),
+monthly_inflation numeric(5,2)
+yearly_inflation numeric(5,2)
+source_date date 
+ALTER TABLE cpi_monthly RENAME COLUMN source_data TO source_date;
